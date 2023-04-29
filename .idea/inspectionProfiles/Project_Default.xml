@@ -5,7 +5,6 @@
       <option name="excludeList">
         <list>
           <option value="org.telegram:telegrambots-spring-boot-starter" />
-          <option value="org.projectlombok:lombok" />
         </list>
       </option>
     </inspection_tool>
