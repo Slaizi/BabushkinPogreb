@@ -1,0 +1,7 @@
+ru\relex\service\AnswerConsumer.class
+ru\relex\service\UpdateProducer.class
+ru\relex\DispatcherApplication.class
+ru\relex\controller\UpdateController.class
+ru\relex\utils\MessageUtils.class
+ru\relex\controller\TelegramBot.class
+ru\relex\service\impl\UpdateProducerImpl.class
